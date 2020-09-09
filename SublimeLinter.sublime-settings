@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+	"linters": {
+    "annotations": {
+    	"disable": false,
+        "warnings": ["TODO"],
+        "errors": ["WHAT?", "OMG!","WTF"]
+    }
+}
+}

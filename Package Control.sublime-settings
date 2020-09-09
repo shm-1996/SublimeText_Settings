@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Fortran",
+		"Highlighter",
+		"HighlightWords",
+		"LaTeXTools",
+		"Package Control",
+		"rsub",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"Todo"
+	]
+}

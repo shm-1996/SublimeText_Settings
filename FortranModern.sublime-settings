@@ -1,0 +1,13 @@
+// These settings override both User and Default settings for the FortranModern syntax
+{
+	// The number of spaces a tab is considered equal to
+    "tab_size": 2,
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
+    // Set to false to turn off the indentation guides.
+    // The color and width of the indent guides may be customized by editing
+    // the corresponding .tmTheme file, and specifying the colors "guide",
+    // "activeGuide" and "stackGuide"
+    "draw_indent_guides": false,
+}
